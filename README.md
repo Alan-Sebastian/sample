@@ -1,3 +1,3 @@
 # sample
 
-https://pec20cs007.github.io/sample/
+https://alan-sebastian.github.io/sample/
